@@ -128,13 +128,9 @@ The system has four main stages:
 * The decoded command is matched with predefined actions.
 * Corresponding outputs (motors, LEDs, etc.) are activated.
 
----
 
-## Flowchart (For diagrams.net)
+<img width="663" height="652" alt="Screenshot 2026-01-31 151220" src="https://github.com/user-attachments/assets/3455b3b4-fc93-4499-826a-93284340ef66" />
 
-![Uploading Screenshot 2026-01-31 151220.png…]()
-
----
 
 ### Main System Flow
 
