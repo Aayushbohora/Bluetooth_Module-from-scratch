@@ -1,12 +1,12 @@
-# 📡 Audio-Based Bluetooth Control System (Arduino + Earbuds)
+# 📡 Audio-Based Bluetooth Module System (Arduino + Earbuds)
 
 ## Overview
 
 This project demonstrates how digital commands can be transmitted wirelessly using **Bluetooth audio signals** and decoded on an Arduino using **frequency analysis**.
 
-Instead of sending data directly through Bluetooth protocols, this system converts commands into **sound waves**, sends them through Bluetooth audio, and then reconstructs the data on the receiver side.
+Instead of sending data directly through Bluetooth protocols or module like HC-05, this system converts commands into **sound waves**, sends them through Bluetooth audio, and then reconstructs the data on the receiver side.
 
-This approach is similar to how old **dial-up modems** worked and is used here for learning and experimentation.
+This approach is used to make a bt module from scratch and this cant be used for heavy works so it is used only for learning and experimentation.
 
 ---
 
@@ -14,7 +14,7 @@ This approach is similar to how old **dial-up modems** worked and is used here f
 
 The system uses sound as a communication medium.
 
-Digital data → Audio tones → Wireless transmission → Audio decoding → Digital commands
+Digital data → Audio tones → Wireless transmission → Audio decoding → Digital commands/Digital output
 
 This method is called **Audio Modulation and Demodulation**.
 
@@ -69,7 +69,7 @@ Two bits are used to represent one command.
 | 10   | Left     |
 | 11   | Right    |
 
-The Arduino interprets these bits and converts them into actions.
+The Arduino interprets these bits and converts them into actions. We can add our own custome bits command
 
 ---
 
@@ -240,13 +240,12 @@ By completing this project, students learn:
 
 This project bridges multiple fields:
 
-* Embedded Systems
 * Digital Signal Processing
 * Wireless Communication
 * Protocol Engineering
 * Electronics
 
-It demonstrates how data can be transmitted without using traditional digital networking protocols.
+It demonstrates how data can be transmitted without using traditional digital networking protocols or hc-05 modules.
 
 ---
 
