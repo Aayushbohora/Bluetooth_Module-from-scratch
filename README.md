@@ -132,7 +132,8 @@ The system has four main stages:
 
 ## Flowchart (For diagrams.net)
 
-[https://app.diagrams.net/](https://app.diagrams.net/#G1IxlsJ3XHQ6XGc9tPLCHqZ4EZtXgkm959#%7B%22pageId%22%3A%22Z0I5SIglmpKKE06dm3D2%22%7D)
+![Uploading Screenshot 2026-01-31 151220.png…]()
+
 ---
 
 ### Main System Flow
