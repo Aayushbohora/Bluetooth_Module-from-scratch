@@ -132,7 +132,7 @@ The system has four main stages:
 
 ## Flowchart (For diagrams.net)
 
-You can paste the following structure into [https://app.diagrams.net/](https://app.diagrams.net/) and convert it into a visual flowchart.
+[https://app.diagrams.net/](https://drive.google.com/file/d/1IxlsJ3XHQ6XGc9tPLCHqZ4EZtXgkm959/view?usp=sharing)
 
 ---
 
